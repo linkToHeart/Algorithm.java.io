@@ -1,7 +1,11 @@
-package fundamentals;
+package Num1;
 import java.util.Scanner;
 import java.util.Stack;
-
+/**
+ * 根据括号计算
+ * @author lxc
+ *
+ */
 public class Stacki {
 	public static void main(String[] args) {
 		Stack<String> ops = new Stack<String>();
